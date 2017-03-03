@@ -32,3 +32,5 @@ comment and uncomment code in onClick function in MyTileService.class
         unlockAndRun(runnableForUnlock);
     }
 ```
+
+* [Training Quick Settings Tiles](http://rmiri.io/2017/03/03/%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-tile-%D8%AF%D8%B1-quick-settings-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%DB%B7/)
